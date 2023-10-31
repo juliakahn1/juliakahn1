@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!
+
+My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit there will be some neat stuff here :) 
 
 <!--
 **juliakahn1/juliakahn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
