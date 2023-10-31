@@ -20,8 +20,9 @@ Coming soon
 
 ## Where I've been
 
-![Meta logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/1600px-Meta-Logo.png?20211104123859)
-
+<div>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/1600px-Meta-Logo.png?20211104123859">
+</div>
 
 <!--
 **juliakahn1/juliakahn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
