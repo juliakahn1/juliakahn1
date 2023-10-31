@@ -18,6 +18,9 @@ My name is Julia, and I'm a UX designer-turned-software engineer. This here READ
 
 Coming soon
 
+## Where I've been
+
+![Meta logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/1600px-Meta-Logo.png?20211104123859)
 
 
 <!--
