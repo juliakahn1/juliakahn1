@@ -21,8 +21,8 @@ Coming soon
 ## Where I've been
 
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Meta-Logo.png/1600px-Meta-Logo.png?20211104123859">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HubSpot_Logo.svg/2560px-HubSpot_Logo.svg.png">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width=150px align="top">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HubSpot_Logo.svg/2560px-HubSpot_Logo.svg.png" width=130px align="top">
 </div>
 
 <!--
