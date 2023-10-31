@@ -1,4 +1,3 @@
-
 <h2 color="black">👋 Hey there!</h2>
 
 My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit I'll have some neat stuff for you :) 
@@ -28,7 +27,7 @@ My name is Julia, and I'm a UX designer-turned-software engineer. This here READ
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" title="PosgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" title="SQL" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" title="SQL" alt="SQL" width="60" height="30"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
@@ -44,8 +43,12 @@ My name is Julia, and I'm a UX designer-turned-software engineer. This here READ
 <h3 color="black">Where I've been</h3>
 
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width=150px align="top">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width=150px align="top">&nbsp &nbsp &nbsp &nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HubSpot_Logo.svg/2560px-HubSpot_Logo.svg.png" width=130px align="top">
+</div>
+
+
+<div>
 </div>
 
 <!--
