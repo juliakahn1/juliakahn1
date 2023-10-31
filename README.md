@@ -12,10 +12,13 @@ My name is Julia, and I'm a UX designer-turned-software engineer. This here READ
   <a href="https://juliakahn.me" target="_blank" >
     <img height="26px" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-<!--   <a href="https://developers.google.com/profile/u/abigail-hernandez" target="_blank" >
-    <img height="26px" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Badge"/>
-  </a> -->
 </div>
+
+## Languages and tools
+
+Coming soon
+
+
 
 <!--
 **juliakahn1/juliakahn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
