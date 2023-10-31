@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit there will be some neat stuff here :) 
+My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit I'll have some neat stuff for you :) 
 
 </div>
    <a href="https://www.linkedin.com/in/juliakahn1/" target="_blank" >
