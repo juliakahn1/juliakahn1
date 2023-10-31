@@ -2,6 +2,21 @@
 
 My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit there will be some neat stuff here :) 
 
+</div>
+   <a href="https://www.linkedin.com/in/juliakahn1/" target="_blank" >
+    <img height="26" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="mailto:abhernndz@gmail.com" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://angel.co/u/abbey-hernandez" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
+  </a>
+  <a href="https://developers.google.com/profile/u/abigail-hernandez" target="_blank" >
+    <img height="26px" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Badge"/>
+  </a> -->
+</div>
+
 <!--
 **juliakahn1/juliakahn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
