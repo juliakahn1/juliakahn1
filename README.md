@@ -1,5 +1,5 @@
 
-<h2>👋 Hey there!</h2>
+<h2 color="black">👋 Hey there!</h2>
 
 My name is Julia, and I'm a UX designer-turned-software engineer. This here README is a work-in-progress, next time you visit I'll have some neat stuff for you :) 
 
@@ -15,11 +15,11 @@ My name is Julia, and I'm a UX designer-turned-software engineer. This here READ
   </a>
 </div>
 
-<h3>Language and tools</h3>
+<h3 color="black">Language and tools</h3>
 
 Coming soon
 
-<h3>Where I've been</h3>
+<h3 color="black">Where I've been</h3>
 
 <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width=150px align="top">
