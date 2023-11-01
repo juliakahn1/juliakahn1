@@ -13,7 +13,7 @@ Hey there! My name is Julia, and I'm a full stack software engineer with 3+ year
 
 -------------------
 
-### Languages, frameworks + tools  
+### Languages, frameworks, software + tools  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
