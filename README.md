@@ -3,7 +3,7 @@
 </p>
   
 ## About me
-Hey there! My name is Julia, and I'm a full stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
+Hey there! My name is Julia, and I'm a full-stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
 
 -------------------
 
