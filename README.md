@@ -2,6 +2,8 @@
 <p align="center">
 </p>
   
+![memoji](https://github.com/juliakahn1/juliakahn1/assets/136507810/08a47350-1c1b-4d34-9be3-9006e6a37d05)
+
 ## About me
 Hey there! My name is Julia, and I'm a full-stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
 
