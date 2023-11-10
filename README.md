@@ -7,6 +7,8 @@
 ## About me
 Hey there! My name is Julia, and I'm a full-stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
 
+[![Portfolio](https://img.shields.io/badge/Check%20out%20my%20portfolio-5DB250.svg)](https://juliakahn.me)
+
 -------------------
 
 ### How to reach me
