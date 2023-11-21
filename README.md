@@ -5,7 +5,7 @@
 <img src="https://github.com/juliakahn1/juliakahn1/assets/136507810/08a47350-1c1b-4d34-9be3-9006e6a37d05" width="150" height="150">
 
 ## About me
-Hey there! My name is Julia, and I'm a full-stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
+Hi! My name is Julia, and I'm a full-stack software engineer with 3+ years experience in UX design. Check out some of my projects and reach out to chat, I'd love to hear from you! 
 
 [![Portfolio](https://img.shields.io/badge/Check%20out%20my%20portfolio-5DB250.svg)](https://juliakahn.me)
 
