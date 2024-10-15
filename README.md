@@ -9,7 +9,6 @@ Hi! I'm Julia, a full-stack software engineer with 3+ years experience in UX/UI 
 
 [![Portfolio](https://img.shields.io/badge/Check%20out%20my%20portfolio-5DB250.svg)](https://juliakahn.me)
 
-### How to reach me
 <a href="https://www.linkedin.com/in/juliakahn1/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:juliakahn1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
